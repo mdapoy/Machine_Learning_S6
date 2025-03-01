@@ -1,2 +1,2 @@
-# ML_S6
+# Machine Learning
 MK ML semester 6
