@@ -1,1 +1,8 @@
+# Percobaan pertama
+- menghapus missing value
+- menghapus duplikat
+- menghapus semua outliers
+- melakukan standarisasi
 
+# analisis
+berdasarkan hasil percobaan pada kodingan tersebut terlihat bahwa tenserflow menghasilkan matrix evaluasi yang lebih bagus dari pada pytorch meskipun nilainya masih sangat kecil.
