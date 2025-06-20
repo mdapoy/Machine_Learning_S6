@@ -1,1 +1,7 @@
-
+# Percobaan pertama
+- melakukan cleaning dengan cara menghapus missing value
+- melakukan transformasi data
+- nilai evaluasi terlalu bagus ada indikasi overfit
+ # Saran Percobaan pertama
+-  belum melakukan balancing class model bisa bias ke class 0
+- belum melakukan feature selection bisa jadi model terlalu mempelajari pola data.
